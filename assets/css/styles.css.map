@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss"
+	],
+	"sourcesContent": [
+		"// @import \"main\";\n\nimg[src*='#center'] { \n    display: block;\n    margin: auto;\n}\n\nbody {\n    background-color: black;\n}"
+	],
+	"names": [],
+	"mappings": "AAEA,AAAA,GAAG,CAAA,AAAA,GAAC,EAAK,SAAS,AAAd,EAAgB,EAChB,OAAO,EAAE,KAAK,EACd,MAAM,EAAE,IAAI,GACf;;AAED,AAAA,IAAI,CAAC,EACD,gBAAgB,EAAE,KAAK,GAC1B"
+}
